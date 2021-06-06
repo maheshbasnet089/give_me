@@ -11,7 +11,7 @@ npm install
 ## Usage
 ````javascript
 ###  News
-npm run give_local_news  //which gives you national news
+$ npm run give_local_news  //which gives you national news
 npm run give_tech_news //which gives you tech news
 
 ### Jokes

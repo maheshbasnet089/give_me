@@ -1,5 +1,5 @@
 {
-  "name": "give_me",
+  "name": "give-me",
   "version": "1.0.0",
   "description": "Package which gives you  joke and News ",
   "main": "give_me.js",

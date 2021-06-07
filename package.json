@@ -1,8 +1,8 @@
 {
-  "name": "news",
+  "name": "give_me",
   "version": "1.0.0",
   "description": "",
-  "main": "news.js",
+  "main": "give_me.js",
   "scripts": {
     "give_programming_jokes": "node -e 'require(\"./give_me.js\").give_programming_jokes()'",
     "give_any_jokes": "node -e 'require(\"./give_me.js\").give_any_jokes()'",
@@ -13,7 +13,7 @@
 
     
  },
-  "author": "",
+  "author": "Manish Basnet",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",

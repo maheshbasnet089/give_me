@@ -1,0 +1,23 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "news.js",
+  "scripts": {
+    "give_programming_jokes": "node -e 'require(\"./give_me.js\").give_programming_jokes()'",
+    "give_any_jokes": "node -e 'require(\"./give_me.js\").give_any_jokes()'",
+    "give_dark_jokes": "node -e 'require(\"./give_me.js\").give_dark_jokes()'",
+    "give_misc_jokes": "node -e 'require(\"./give_me.js\").give_misc_jokes()'",
+    "give_tech_news": "node -e 'require(\"./give_me.js\").give_tech_news()'",
+    "give_local_news": "node -e 'require(\"./give_me.js\").give_local_news()'"
+
+    
+ },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}

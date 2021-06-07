@@ -1,7 +1,7 @@
 {
   "name": "give_me",
   "version": "1.0.0",
-  "description": "",
+  "description": "Package which gives you  joke and News ",
   "main": "give_me.js",
   "scripts": {
     "give_programming_jokes": "node -e 'require(\"./give_me.js\").give_programming_jokes()'",
@@ -13,6 +13,13 @@
 
     
  },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/manishbasnet089/give_me.git"
+},
+"keywords": [
+  "give_me_joke,give_me_news"
+],
   "author": "Manish Basnet",
   "license": "ISC",
   "dependencies": {
